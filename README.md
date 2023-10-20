@@ -1,0 +1,3 @@
+- I'm alligator
+- Currently Stuying in Federal University of Rio Grande do Norte
+- Here you'll find mainly personal tools and projects to help my personal workflow
